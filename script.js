@@ -5,13 +5,13 @@ const overlay = document.querySelector('.overlay');
   
   const images = ['fullmoon.jpeg', 'bluemoon.jpeg', 'strawberrymoon.jpeg', 'bloodmoon.jpeg', 'sturgeonmoon.jpeg' 'pinkmoon.jpeg', 'wolfmoon.jpeg',  ];
 const alts = {
-  'fullmoon.jpeg': '1st Icon',
-  'bluemoon.jpeg': '2nd Icon',
-  'strawberrymoon.jpeg': '3rd Icon',
-  'bloodmoon.jpeg': '4th Icon',
-  'sturgeonmoon.jpeg': '5th Icon',
-  'pinkmoon.jpeg': '6th Icon',
-  'wolfmoon.jpeg': '7th Icon',
+  'fullmoon.jpeg': 'Icon of 1',
+  'bluemoon.jpeg': 'Icon of 2',
+  'strawberrymoon.jpeg': 'Icon of 3',
+  'bloodmoon.jpeg': 'Icon of 4',
+  'sturgeonmoon.jpeg': 'Icon of 5',
+  'pinkmoon.jpeg': 'Icon of 6',
+  'wolfmoon.jpeg': 'Icon of 7',
 };
 
 
