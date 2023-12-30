@@ -7,7 +7,7 @@ const overlay = document.querySelector('.overlay');
 const alts = {
   'fullmoon.jpeg': 'Icon of 1',
   'bluemoon.jpeg': 'Icon of 2',
-  'strawberrymoon.jpeg': 'Icon of 3',
+  'pinkmoon.jpeg': 'Icon of 3',
   'bloodmoon.jpeg': 'Icon of 4',
   'sturgeonmoon.jpeg': 'Icon of 5',
 };
