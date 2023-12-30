@@ -3,7 +3,7 @@ const thumbBar = document.querySelector('.thumb-bar');
 const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
   
-  const images = ['fullmoon.jpeg', 'bluemoon.jpeg', 'strawberrymoon.jpeg', 'bloodmoon.jpeg', 'sturgeonmoon.jpeg'];
+  const images = ['fullmoon.jpeg', 'bluemoon.jpeg', 'pinkmoon.jpeg', 'bloodmoon.jpeg', 'sturgeonmoon.jpeg'];
 const alts = {
   'fullmoon.jpeg': 'Icon of 1',
   'bluemoon.jpeg': 'Icon of 2',
