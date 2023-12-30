@@ -3,15 +3,13 @@ const thumbBar = document.querySelector('.thumb-bar');
 const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
   
-  const images = ['fullmoon.jpeg', 'bluemoon.jpeg', 'strawberrymoon.jpeg', 'bloodmoon.jpeg', 'sturgeonmoon.jpeg' 'pinkmoon.jpeg', 'wolfmoon.jpeg',  ];
+  const images = ['fullmoon.jpeg', 'bluemoon.jpeg', 'strawberrymoon.jpeg', 'bloodmoon.jpeg', 'sturgeonmoon.jpeg'];
 const alts = {
   'fullmoon.jpeg': 'Icon of 1',
   'bluemoon.jpeg': 'Icon of 2',
   'strawberrymoon.jpeg': 'Icon of 3',
   'bloodmoon.jpeg': 'Icon of 4',
   'sturgeonmoon.jpeg': 'Icon of 5',
-  'pinkmoon.jpeg': 'Icon of 6',
-  'wolfmoon.jpeg': 'Icon of 7',
 };
 
 
